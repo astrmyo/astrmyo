@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1112910965856550964/1281688477318254715/ezgif.com-animated-gif-maker_5.gif?ex=66e1e6e9&is=66e09569&hm=671d3337f19488092d4321781c1ed6bc6b335fc89a9596da49016d2feb5df630&=&width=756&height=473" alt="gif!!" width="300">
+<img src="https://media.discordapp.net/attachments/1112910965856550964/1281688477318254715/ezgif.com-animated-gif-maker_5.gif?ex=66e1e6e9&is=66e09569&hm=671d3337f19488092d4321781c1ed6bc6b335fc89a9596da49016d2feb5df630&=&width=756&height=473" alt="gif!!" width="600">
 </div>
 
 <div align="center" style="font-size: 12px;">
