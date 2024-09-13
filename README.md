@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<a href="https://rentry.co/thsitle" target="_blank">
+<a href="https://thstle.carrd.co" target="_blank">
 <img src="https://media.discordapp.net/attachments/1112910965856550964/1281750727395643422/793_Sem_Titulo_20240905232729.png?ex=66e220e3&is=66e0cf63&hm=6947adfd6a41dff708dc5d8cff187416f71266b011a42ee9223fff8bc298c3ad&=&format=webp&quality=lossless&width=473&height=473" alt="ribbon!!" width="100">
 </div>
 
